@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemhome"
+        android:icon="@drawable/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/itembookmark"
+        android:icon="@drawable/frame_13821"
+        android:title="Bookmark" />
+    <item
+        android:id="@+id/itemprofile"
+        android:icon="@drawable/iconamoon_profile"
+        android:title="Profile" />
+</menu>
